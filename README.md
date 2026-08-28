@@ -28,7 +28,8 @@ To ensure absolute safety for independent home use, the exoskeleton avoids volat
 - **Trajectory Planning:** The mathematical models successfully map target therapeutic clinical wrist angles ($\pm 30^\circ$) directly to precise linear motor spooling distances ($\Delta L$).
 - **Continuous Passive Motion (CPM):** The system executes smooth, pre-calculated rehabilitative trajectories, ensuring the patient's wrist is guided safely without mechanical singularities.
 
-![Kinematic Validation](images/kinematics_validation.png)
+![Kinematic Validation](images/Kinematics.PNG)
+
 *MATLAB simulation of the 3D reachable workspace and inverse kinematics validation*
 
 ---
