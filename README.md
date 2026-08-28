@@ -2,7 +2,8 @@
 
 This repository contains the mechanical designs, kinematic models, and control architecture for a lightweight, unilateral, tendon-driven wrist exoskeleton. Designed specifically for unmonitored home-based stroke rehabilitation, the system targets the clinical condition of "wrist drop" by actively assisting fine motor movements without relying on heavy, rigid physical hinges.
 
-![Physical Prototype](images/prototype.jpg)
+<img src="images/prototype.jpeg" alt="Physical Prototype" width="300">
+
 *The assembled 3D-printed prototype*
 
 ---
